@@ -41,11 +41,6 @@ https://easyrpg.org/downloads/rtp/
 
 ## ライセンス
 
-EasyRPG RTP materials are under a Creative Commons Attribution 4.0
-International License. Read the AUTHORS.md file for attribution details.
-See the file [COPYING] for a plain text copy of the license, alternatively
-you may visit: https://creativecommons.org/licenses/by/4.0/
-
 EasyRPG RTP の素材は 表示 4.0 国際 (CC BY 4.0) に基づいています。
 帰属の詳細については AUTHORS.md ファイルをご確認ください。
 ライセンスのプレーンテキストコピーは[COPYING]ファイルをご覧ください。
